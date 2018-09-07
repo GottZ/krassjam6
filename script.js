@@ -2,6 +2,9 @@ const theme = '„A simulation game where you trade resources to dominate the ma
 const currency = '₭';
 const currencyName = '₿ellebits';
 
+// TODO: find a place for this: https://clyp.it/iaozq1fz?token=c37160c06777065bf999af933b06e61f
+// probably a good idea for a main menu of some kind
+
 ce('h2', body, {textContent: 'welcome to krassconomy!'})
 ce('h3', body, {textContent: theme});
 

@@ -13,3 +13,6 @@ my interpretation of this theme is as follows:
 
 this was created on stream over at: [twitch.tv/gottzstreams](https://twitch.tv/gottzstreams)
 
+
+# Credits:
+Music: [tropicalbanana](https://twitch.tv/tropicalbanana) [clyp.it](https://clyp.it/user/wf0qwze3)

@@ -1,5 +1,5 @@
 const theme = '„A simulation game where you trade resources to dominate the market.“';
-const currency = '₭';
+const currency = '₿';
 const currencyName = '₿ellebits';
 
 // TODO: find a place for this: https://clyp.it/iaozq1fz?token=c37160c06777065bf999af933b06e61f

@@ -118,19 +118,19 @@ button {
 }
 
 
-.button:hover {
+.button.affordable:hover {
   background-color: rgba(255, 255, 255, 0.2);
   box-shadow: 0 0 0.07em rgba(255,255,255,0.1), 0 0.2em 0.2em -0.15em rgba(0,0,0,0.5), inset 0 0 0.7em rgba(0,0,0,0.4),inset 0 0.1em 0.1em rgba(255,255,255,0.1);
   color: #333;
 }
 
-.button:focus {
+.button.affordable:focus {
   background-color: rgba(255, 255, 255, 0.2);
   box-shadow: 0 0 0.07em rgba(255,255,255,0.3), 0 0.2em 0.2em -0.15em rgba(0,0,0,0.5), inset 0 0 0.7em rgba(0,0,0,0.4),inset 0 0.1em 0.1em rgba(255,255,255,0.1);
   color: #333;
 }
 
-.button:active {
+.button.affordable:active {
   background-color: rgba(0,0,0,0.05);
   box-shadow: 0 0 0.07em rgba(255,255,255,0.1), inset 0 0 0.7em rgba(0,0,0,0.5),inset 0 0.1em 0.1em rgba(0,0,0,0.2);
   text-shadow: 0.02em 0.02em 0.03em rgba(0,0,0,0.8);
